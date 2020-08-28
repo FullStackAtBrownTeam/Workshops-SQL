@@ -1,4 +1,4 @@
-CustomerID,CustomerName,OrderNumber
+CustomerID,CustomerName,OrderNum
 1,John Smith,101
 2,Roger Radcliffe,106
 3,Anita Radcliffe,108
@@ -7,3 +7,4 @@ CustomerID,CustomerName,OrderNumber
 6,Daphne Blake,104
 7,Fred Jones,107
 8,Jon Arbuckle,105
+9,Jane Doe,112

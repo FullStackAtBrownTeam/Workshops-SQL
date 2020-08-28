@@ -1,4 +1,4 @@
-county,year,reported_cases,reported_deaths,fatality_rate,who_region
+country,year,reported_cases,reported_deaths,fatality_rate,who_region
 Afghanistan,2016,677,5,0.7,Eastern Mediterranean
 Afghanistan,2015,58064,8,0.01,Eastern Mediterranean
 Afghanistan,2014,45481,4,0,Eastern Mediterranean
