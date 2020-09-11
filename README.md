@@ -1,6 +1,6 @@
 # Hack@Home Workshop - SQL
 
-This is the repository for the [Hack@Home](http://hackathome.org/) SQL workshop, led by Jenny Tan and Alice Marbach. The video companion to this repository will be posted [here]()
+This is the repository for the [Hack@Home](http://hackathome.org/) SQL workshop, led by Jenny Tan and Alice Marbach. The video companion to this repository will be posted [here](https://www.youtube.com/watch?v=YaepM57coB8&feature=youtu.be&ab_channel=FSAB).
 
 ## Installation 
 
